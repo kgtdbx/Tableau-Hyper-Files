@@ -18,10 +18,10 @@ proxies = {
 msg="Hi User, Please drop a text from telegram on @gtl_airtel_bot to confirm the delivery. Manish Chauhan"
 
 #Chat id if the reciver.
-chat_id=-429672726
+chat_id= 'your chat id'
 
 # Idendificcation token for the receiver , Generated using @BOtFather
-my_token = '523741186:AAF_T8r0-RzlfRwYmvH7u9SyOAkZNwWWNWc'
+my_token = 'Your token'
 
 # API url for telegram which is used to send messages
 url = f'https://api.telegram.org/bot{my_token}/sendMessage'
