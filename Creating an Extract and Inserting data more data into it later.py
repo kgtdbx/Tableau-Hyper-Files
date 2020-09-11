@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  2 21:35:47 2020
 
-@author: Manish Chauhan || Goldstone Technologies || +91-9100814447
+@author: Manish Chauhan || +91-9774083186
 """
 from tableauhyperapi import HyperProcess, Inserter, Telemetry, Connection, CreateMode, NOT_NULLABLE, NULLABLE, SqlType,TableDefinition,escape_name, escape_string_literal, HyperException, TableName
 
