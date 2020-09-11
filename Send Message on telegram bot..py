@@ -2,7 +2,7 @@
 """
 Created on Wed Aug 12 10:30:12 2020
 
-@author: admin
+@author: Manish Chauhan | +91-9774083186
 """
 
 import requests
